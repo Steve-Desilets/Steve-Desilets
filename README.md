@@ -10,9 +10,7 @@
 - 🐠 Fun fact: I recently obtained my __Open Water Scuba Diving Certification__
 - 📫 How to reach me: __steve.desilets27@gmail.com__
 
-
 <br/>
-
 
 ### Contact me:
 
