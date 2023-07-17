@@ -14,19 +14,6 @@
 <br/>
 
 
-<table>
-    <tr>
-        <th>My CV</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
-        </td>
-    </tr>
-</table>
-
-
-
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/steve-desilets-424823a3/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
