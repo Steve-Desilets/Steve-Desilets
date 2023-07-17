@@ -79,6 +79,12 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="60" height="60"/></a>        
         </td>
     </tr>
+    <tr>
+        <td>Video Editing</td>
+        <td>
+            <a href=""><img src="https://en.wikipedia.org/wiki/Camtasia#/media/File:Camtasia_computer_icon.png" width="60" height="60"/></a>        
+        </td>
+    </tr>
 </table>
 
 <br/>
