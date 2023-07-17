@@ -71,7 +71,7 @@
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="50" height="50"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/slack/slack-original-wordmark.svg" width="50" height="50"/></a>      
-            <a href=""><img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Teams_(2018%E2%80%93present).svg" width="50" height="50"/></a>            
+            <a href=""><img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Teams_(2018%E2%80%93present).svg" width="50" height="50"/></a>          
         </td>
     </tr>
     <tr>
