@@ -18,6 +18,15 @@
 
 <table>
     <tr>
+        <td>Collaboration</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" width="50" height="50"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="50" height="50"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/slack/slack-original-wordmark.svg" width="50" height="50"/></a>      
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width="50" height="50"/></a>     
+        </td>
+    </tr>
+    <tr>
         <td>Data Science and Math</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" width="50" height="50"/></a>   
@@ -56,15 +65,6 @@
         <td>Organizational Operations</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="50" height="50"/></a>        
-        </td>
-    </tr>
-    <tr>
-        <td>Collaboration</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/slack/slack-original-wordmark.svg" width="50" height="50"/></a>      
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width="50" height="50"/></a>     
         </td>
     </tr>
     <tr>
