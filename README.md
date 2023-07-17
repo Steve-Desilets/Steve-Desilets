@@ -24,8 +24,6 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
-
-    
     <tr>
         <td>General Workplace Operations</td>
         <td>
