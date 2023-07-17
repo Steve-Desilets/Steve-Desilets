@@ -82,7 +82,7 @@
     <tr>
         <td>Video Editing</td>
         <td>
-            <a href=""><img src="https://upload.wikipedia.org/wiki/Camtasia#/media/File:Camtasia_computer_icon.png" width="60" height="60"/></a>        
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/en/8/86/Camtasia_computer_icon.png" width="60" height="60"/></a>        
         </td>
     </tr>
 </table>
