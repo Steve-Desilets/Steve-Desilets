@@ -18,6 +18,12 @@
 
 <table>
     <tr>
+        <td>Agile Methodology</td>
+        <td>
+            <a href=""><img src="https://www.isteksolutions.com/au/wp-content/uploads/2017/08/scaled-agile-sq-logo.png" width="50" height="50"/></a>  
+        </td>
+    </tr>
+    <tr>
         <td>Collaboration</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" width="50" height="50"/></a>
