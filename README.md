@@ -21,6 +21,7 @@
         <td>Data Science and Math</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" width="40" height="40"/></a>   
+            <a href=""><img src="https://mb.cision.com/Public/9602/2082588/92474d4054bf3d17_800x800ar.png" width="40" height="40"/></a>   
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" width="40" height="40"/></a>   
