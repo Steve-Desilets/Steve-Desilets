@@ -25,7 +25,6 @@
         </td>
     </tr>
 
-https://www.vectorlogo.zone/util/preview.html?image=/logos/sqlite/sqlite-icon.svg
     
     <tr>
         <td>General Workplace Operations</td>
