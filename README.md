@@ -5,7 +5,7 @@
 - 😄 Pronouns: __He / Him__
 - 💻 I’m currently a pursuing a Master of Science at Northwestern University in : __Data Science__
 - 📕 I’m currently learning: __Natural Language Processing, Artificial Intelligence, Stochastic Decision Processes__
-- 💬 Ask me about __Data Science, Statistics, Programming__
+- 💬 Ask me about: __Data Science, Statistics, Programming__
 - 🏢 Feel free to reach out about any open positions at your workplace since I am __Looking For Post-Graduation Jobs__
 - 🐠 Fun fact: I recently obtained my __Open Water Scuba Diving Certification__
 - 📫 How to reach me: __steve.desilets27@gmail.com__
