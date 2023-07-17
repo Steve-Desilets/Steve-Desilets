@@ -36,7 +36,7 @@
 
 ### Contact me:
 
-<a href="https://www.linkedin.com/in/stephen-desilets-424823a3/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/steve-desilets-424823a3/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
