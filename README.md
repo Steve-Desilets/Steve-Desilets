@@ -50,6 +50,12 @@
         </td>
     </tr>
     <tr>
+        <td>Document Preparation</td>
+        <td>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="50" height="50"/></a>
+        </td>
+    </tr>
+    <tr>
         <td>General Workplace Operations</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-ar21.svg" width="50" height="50"/></a>
@@ -67,12 +73,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="50" height="50"/></a>        
         </td>
     </tr>
-    <tr>
-        <td>Document Preparation</td>
-        <td>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="50" height="50"/></a>
-        </td>
-    </tr>
+
 </table>
 
 <br/>
