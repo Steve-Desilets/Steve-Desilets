@@ -79,12 +79,6 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="50" height="50"/></a>        
         </td>
     </tr>
-    <tr>
-        <td>Video Editing</td>
-        <td>
-            <a href=""><img src="https://www.pngwing.com/en/free-png-adjux" width="50" height="50"/></a>        
-        </td>
-    </tr>
 </table>
 
 <br/>
