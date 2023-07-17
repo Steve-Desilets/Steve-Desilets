@@ -86,14 +86,7 @@
     <tr>
         <td>Document Preparation</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-icon.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" width="50" height="50"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="50" height="50"/></a>
         </td>
     </tr>
 </table>
