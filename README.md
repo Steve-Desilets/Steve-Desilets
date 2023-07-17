@@ -53,15 +53,6 @@
         </td>
     </tr>
     <tr>
-        <td>Video Editing</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/circleci/circleci-plain.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/travis/travis-plain.svg" width="50" height="50"/></a>
-        </td>
-    </tr>
-    <tr>
         <td>Organizational Operations</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="50" height="50"/></a>        
