@@ -25,11 +25,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" width="40" height="40"/></a>   
             <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="40" height="40"/></a>   
-            <a href=""><img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" width="40" height="40"/></a>   
-
-https://github.com/devicons/devicon/tree/v2.13.0/icons/neo4j
-
-            
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" width="40" height="40"/></a>    
         </td>
     </tr>
     <tr>
