@@ -16,8 +16,6 @@
 
 <table>
     <tr>
-        <th>My Blog</th>
-        <th>My Website</th>
         <th>My CV</th>
     </tr>
     <tr>
