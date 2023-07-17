@@ -18,7 +18,7 @@
 
 <table>
     <tr>
-        <td>Automation Tooling</td>
+        <td>Data Science</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40"/></a>
@@ -30,7 +30,7 @@
         </td>
     </tr>
     <tr>
-        <td>Cloud Engineering</td>
+        <td>Operations</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
