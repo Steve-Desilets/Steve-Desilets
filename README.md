@@ -89,6 +89,10 @@
 
 <br/>
 
+### Certifications
+
+- Passed the Society of Actuaries Probability and Financial Mathematics Exams
+
 ### My GitHub Stats
 
 <table>
