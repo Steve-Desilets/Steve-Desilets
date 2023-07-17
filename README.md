@@ -38,6 +38,7 @@
         <td>General Workplace Operations</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-ar21.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/slack/slack-original-wordmark.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" width="40" height="40"/></a>
