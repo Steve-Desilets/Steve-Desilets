@@ -10,8 +10,6 @@
 - 🐠 Fun fact: I recently obtained my __Open Water Scuba Diving Certification__
 - 📫 How to reach me: __steve.desilets27@gmail.com__
 
-<br/>
-
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/steve-desilets-424823a3/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
