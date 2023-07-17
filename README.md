@@ -21,8 +21,8 @@
         <td>Data Science and Math</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/sas/sas-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40"/></a>
@@ -30,6 +30,9 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
+
+https://www.vectorlogo.zone/util/preview.html?image=/logos/sqlite/sqlite-icon.svg
+    
     <tr>
         <td>General Workplace Operations</td>
         <td>
