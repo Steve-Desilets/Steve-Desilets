@@ -45,6 +45,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="60" height="60"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="60" height="60"/></a>   
             <a href=""><img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" width="60" height="60"/></a> 
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Semoss_Logo.jpg" width="60" height="60"/></a> 
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="60" height="60"/></a> 
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" width="60" height="60"/></a>         
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60" height="60"/></a>      
