@@ -63,6 +63,13 @@
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="60" height="60"/></a>
         </td>
     </tr>
+        <tr>
+        <td>Finance and Human Resources</td>
+        <td>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/CP3_Logo.jpg" width="60" height="60"/></a> 
+            <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="60" height="60"/></a>        
+        </td>
+    </tr>
     <tr>
         <td>General Workplace Operations</td>
         <td>
@@ -73,13 +80,6 @@
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" width="60" height="60"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg" width="60" height="60"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width="60" height="60"/></a>   
-        </td>
-    </tr>
-    <tr>
-        <td>Organizational Operations</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="60" height="60"/></a>        
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/CP3_Logo.jpg" width="60" height="60"/></a> 
         </td>
     </tr>
     <tr>
