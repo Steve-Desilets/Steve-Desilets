@@ -79,6 +79,7 @@
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg" width="60" height="60"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="60" height="60"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" width="60" height="60"/></a>
+            <a href=""><img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Project_(2013-2019).svg" width="60" height="60"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg" width="60" height="60"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width="60" height="60"/></a>   
         </td>
