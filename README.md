@@ -1,4 +1,4 @@
-## Hi there, I'm Steve Desilets 123 👋
+## Hi there, I'm Steve Desilets 👋
 
 ### Data Scientist / Masters Student / Senior Consultant
 
