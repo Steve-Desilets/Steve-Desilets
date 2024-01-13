@@ -94,7 +94,8 @@
     <tr>
         <td>Website Design</td>
         <td>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Hugo_logo_v2.jpg" width="60" height="60"/></a>        
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Hugo_logo_v2.jpg" width="60" height="60"/></a>     
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/netlify_logo.png" width="60" height="60"/></a>    
         </td>
     </tr>
 </table>
