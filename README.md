@@ -27,7 +27,7 @@
         <td>Collaboration</td>
         <td>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Colab.jpg" width="60" height="60"/></a> 
-            <a href=""><img src="https://www.vectorlogo.zone/logos/discordapp/discord-icon.svg" width="60" height="60"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/util/preview?image=/logos/discord/discord-icon.svg" width="60" height="60"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="60" height="60"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/slack/slack-original-wordmark.svg" width="60" height="60"/></a>      
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width="60" height="60"/></a>     
