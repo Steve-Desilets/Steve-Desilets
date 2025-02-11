@@ -20,7 +20,7 @@
         <td>Agile Methodology</td>
         <td>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Agile_Logo.jpg" width="60" height="60"/></a>  
-            <a href=""><img src="https://www.isteksolutions.com/au/wp-content/uploads/2017/08/scaled-agile-sq-logo.png" width="60" height="60"/></a>  
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Scaled_Agile_Framework_Logo.png" width="60" height="60"/></a>  
         </td>
     </tr>
     <tr>
