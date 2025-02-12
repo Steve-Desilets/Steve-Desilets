@@ -3,8 +3,8 @@
 ### Data Scientist / Senior Consultant
 
 - 😄 Pronouns: __He / Him__
-- 💻 I’m recently graduated from Northwestern University with a Master of Science in : __Data Science__
-- 📕 I’m currently learning: __Natural Language Processing, Artificial Intelligence, Data Engineering__
+- 💻 I work as a Senior Consultant at : __Deloitte Consulting__
+- 📕 I recently graduated from Northwestern University with a Master of Science in : __Data Science__
 - 💬 Ask me about: __Data Science, Statistics, Programming__
 - 🐠 Fun fact: I recently obtained my __Open Water Scuba Diving Certification__
 - 📫 How to reach me: __steve.desilets27@gmail.com__
