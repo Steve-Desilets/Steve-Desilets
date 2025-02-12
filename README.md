@@ -1,6 +1,6 @@
 ## Hi there, I'm Steve Desilets 👋
 
-### Data Scientist / Masters Student / Senior Consultant
+### Data Scientist / Senior Consultant
 
 - 😄 Pronouns: __He / Him__
 - 💻 I’m recently graduated from Northwestern University with a Master of Science in : __Data Science__
