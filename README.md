@@ -83,6 +83,14 @@
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width="60" height="60"/></a>   
         </td>
     </tr>
+    </tr>
+        <tr>
+        <td>Generative Artificial Intelligence</td>
+        <td>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/CP3_Logo.jpg" width="60" height="60"/></a> 
+            <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="60" height="60"/></a>        
+        </td>
+    </tr>
     <tr>
         <td>Video Editing</td>
         <td>
