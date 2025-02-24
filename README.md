@@ -42,7 +42,6 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original-wordmark.svg" width="60" height="60"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" width="60" height="60"/></a>  
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Protege.jpg" width="60" height="60"/></a> 
-            <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="60" height="60"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="60" height="60"/></a>   
             <a href=""><img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" width="60" height="60"/></a> 
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Semoss_Logo.jpg" width="60" height="60"/></a> 
@@ -87,7 +86,7 @@
         <tr>
         <td>Generative Artificial Intelligence</td>
         <td>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/CP3_Logo.jpg" width="60" height="60"/></a> 
+            <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="60" height="60"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="60" height="60"/></a>        
         </td>
     </tr>
