@@ -110,6 +110,7 @@
 ### Certifications
 
 - Passed the Society of Actuaries Probability and Financial Mathematics Exams
+- Obtained the Microsoft Azure Artificial Intelligence (AI) Fundamentals Certification
 
 ### My GitHub Stats
 
