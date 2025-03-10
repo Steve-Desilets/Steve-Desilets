@@ -40,7 +40,7 @@
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width="60" height="60"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original-wordmark.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/PostgreSQL_Logo.png" width="60" height="60"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/PostgreSQL_Logo.jpg" width="60" height="60"/></a> 
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Protege.jpg" width="60" height="60"/></a> 
             <a href=""><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="60" height="60"/></a>   
             <a href=""><img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" width="60" height="60"/></a> 
