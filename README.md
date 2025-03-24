@@ -50,7 +50,7 @@
         </td>
     </tr>
     <tr>
-        <td>Data Science and Math</td>
+        <td>Data Science</td>
         <td>
             <a href=""><img src="https://mb.cision.com/Public/9602/2082588/92474d4054bf3d17_800x800ar.png" width="60" height="60"/></a>   
             <a href=""><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="60" height="60"/></a>   
