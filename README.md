@@ -2,7 +2,6 @@
 
 ### Data Scientist / Senior Consultant
 
-- 😄 Pronouns: __He / Him__
 - 💻 I work as a Senior Consultant at : __Deloitte Consulting__
 - 📕 I recently graduated from Northwestern University with a Master of Science in : __Data Science__
 - 💬 Ask me about: __Data Science, Generative Artificial Intelligence, Cloud Service Providers__
@@ -154,7 +153,7 @@
 **Steve-Desilets/Steve-Desilets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 😄 Pronouns: __He / Him__
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
