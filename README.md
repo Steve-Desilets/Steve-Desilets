@@ -5,7 +5,7 @@
 - 😄 Pronouns: __He / Him__
 - 💻 I work as a Senior Consultant at : __Deloitte Consulting__
 - 📕 I recently graduated from Northwestern University with a Master of Science in : __Data Science__
-- 💬 Ask me about: __Data Science, Generative Artificial Intelligence, Programming__
+- 💬 Ask me about: __Data Science, Generative Artificial Intelligence, Cloud Service Providers__
 - 🐠 Fun fact: I recently obtained my __Open Water Scuba Diving Certification__
 
 ### Contact me:
@@ -109,6 +109,9 @@
 <br/>
 
 ### Certifications
+
+#### Amazon Web Services (AWS)
+- Obtained AWS Artificial Intelligence (AI) Practitioner Certification
 
 #### Microsoft Azure
 - Obtained Azure Artificial Intelligence (AI) Fundamentals Certification
