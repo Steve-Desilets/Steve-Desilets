@@ -22,7 +22,7 @@
         </td>
     </tr>
     <tr>
-        <td>Calculus</td>
+        <td>Calculus & Linear Algebra</td>
         <td>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width="60" height="60"/></a>   
         </td>
