@@ -62,6 +62,7 @@
         <td>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/PowerBI_Logo_3.png" width="60" height="60"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Semoss_Logo.jpg" width="60" height="60"/></a>      
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/tableau_logo.png" width="60" height="60"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60" height="60"/></a>      
         </td>
     </tr>
