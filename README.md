@@ -16,7 +16,7 @@
 <table>
     <tr>
         <td>Agile Methodology</td>
-        <td>
+        <td style="height: 80px; vertical-align: middle;">
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Agile_Logo.jpg" width="60" height="60"/></a>  
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Scaled_Agile_Framework_Logo.png" width="60" height="60"/></a>  
         </td>
