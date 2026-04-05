@@ -24,7 +24,7 @@
     <tr>
         <td>Calculus & Linear Algebra </td>
         <td style="height: 80; vertical-align: middle;">
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width="60" height="60" style="object-fit: contain; margin: 2px;" /></a>   
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Maple_Logo.jpeg" width="60" height="60"/></a> 
         </td>
     </tr>
     <tr>
