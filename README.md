@@ -86,8 +86,17 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="80" height="80"/></a>        
         </td>
     </tr>
+    </tr>
+        <tr>
+        <td>Generative Artificial Intelligence</td>
+        <td>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/AWS_Logo.png" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Microsoft_Azure_Logo_2.png" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Python_Logo.png" width="80" height="80"/></a>   
+        </td>
+    </tr>
     <tr>
-        <td>General Workplace Operations (with Microsoft Office)</td>
+        <td>Microsoft Office</td>
         <td>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>
@@ -96,15 +105,6 @@
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Microsoft_Project.png" width="80" height="80"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg" width="80" height="80"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>   
-        </td>
-    </tr>
-    </tr>
-        <tr>
-        <td>Generative Artificial Intelligence</td>
-        <td>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/AWS_Logo.png" width="80" height="80"/></a>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Microsoft_Azure_Logo_2.png" width="80" height="80"/></a>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Python_Logo.png" width="80" height="80"/></a>   
         </td>
     </tr>
     <tr>
