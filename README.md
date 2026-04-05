@@ -22,12 +22,6 @@
         </td>
     </tr>
     <tr>
-        <td>Calculus & Linear Algebra </td>
-        <td style="height: 80; vertical-align: middle;">
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Maple_Logo.jpeg" width="80" height="80"/></a> 
-        </td>
-    </tr>
-    <tr>
         <td>Collaboration</td>
         <td style="height: 80; vertical-align: middle;">
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Colab.jpg" width="80" height="80"/></a> 
@@ -93,6 +87,12 @@
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/AWS_Logo.png" width="80" height="80"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Microsoft_Azure_Logo_2.png" width="80" height="80"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Python_Logo.png" width="80" height="80"/></a>   
+        </td>
+    </tr>
+        <tr>
+        <td>Calculus & Linear Algebra </td>
+        <td style="height: 80; vertical-align: middle;">
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Maple_Logo.jpeg" width="80" height="80"/></a> 
         </td>
     </tr>
     <tr>
