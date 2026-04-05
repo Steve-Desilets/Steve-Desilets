@@ -75,7 +75,7 @@
     <tr>
         <td>Document Preparation</td>
         <td>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="60" height="60"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Latex_Logo.png" width="60" height="60"/></a> 
         </td>
     </tr>
         <tr>
