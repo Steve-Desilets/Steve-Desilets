@@ -104,7 +104,7 @@
         <td>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/AWS_Logo.png" width="60" height="60"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Microsoft_Azure_Logo_2.png" width="60" height="60"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="60" height="60"/></a>      
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Python_Logo.png" width="60" height="60"/></a>   
         </td>
     </tr>
     <tr>
