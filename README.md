@@ -28,12 +28,6 @@
         </td>
     </tr>
 
-    <tr>
-        <td style="vertical-align: middle;">Calculus & Linear Algebra 2</td>
-        <td style="height: 80px; vertical-align: middle;">
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width="60"/></a>
-        </td>
-    </tr>
 
 
 
