@@ -39,7 +39,7 @@
     </tr>
     <tr>
         <td>Database Management</td>
-        <td style="height: 80px; vertical-align: middle;">
+        <td style="height: 80; vertical-align: middle;">
             <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" width="60" height="60"/></a>   
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original-wordmark.svg" width="60" height="60"/></a>
