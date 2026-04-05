@@ -140,6 +140,22 @@
 <table>
     <tr>
         <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Steve-Desilets"/>
+        </td> 
+    </tr>
+</table>
+
+
+
+
+
+
+<!--
+### My GitHub Stats
+
+<table>
+    <tr>
+        <td>
             <img src="https://github-profile-trophy.vercel.app/?username=Steve-Desilets&row=3&column=4&no-bg=true"/>
         </td>
         <td>
