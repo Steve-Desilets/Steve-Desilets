@@ -83,7 +83,7 @@
         <td>Finance and Human Resources</td>
         <td>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/CP3_Logo.jpg" width="80" height="80"/></a> 
-            <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="80" height="80"/></a>        
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/ServiceNow_Logo.jpg" width="80" height="80"/></a>      
         </td>
     </tr>
     </tr>
