@@ -75,6 +75,7 @@
     <tr>
         <td>Document Preparation</td>
         <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-ar21.svg" width="80" height="80"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Latex_Logo.png" width="80" height="80"/></a> 
         </td>
     </tr>
@@ -86,9 +87,8 @@
         </td>
     </tr>
     <tr>
-        <td>General Workplace Operations</td>
+        <td>General Workplace Operations (with Microsoft Office)</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-ar21.svg" width="80" height="80"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="80" height="80"/></a>
