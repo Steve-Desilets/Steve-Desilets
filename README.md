@@ -33,7 +33,7 @@
         <td style="height: 80; vertical-align: middle;">
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Colab.jpg" width="80" height="80"/></a> 
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/discord_icon_3.png" width="80" height="80"/></a> 
-            <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/GitHub_Logo.png" width="80" height="80"/></a> 
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/slack/slack-original-wordmark.svg" width="80" height="80"/></a>   
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Teams_Logo.jpg" width="80" height="80"/></a> 
         </td>
