@@ -125,7 +125,7 @@
 
 ### Certifications
 
-#### UNited States Federal Government
+#### United States Federal Government
 - Hold an active Security Clearance with the United States Department of Veterans Affairs (VA)
 
 #### Amazon Web Services (AWS)
