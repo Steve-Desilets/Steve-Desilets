@@ -135,6 +135,7 @@
 - Passed the SOA Probability Exam
 - Passed the SOA Financial Mathematics Exam
 
+<!--
 ### My GitHub Stats
 
 <table>
@@ -155,7 +156,7 @@
 
 
 
-<!--
+
 **Steve-Desilets/Steve-Desilets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
