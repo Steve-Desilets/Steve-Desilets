@@ -125,6 +125,9 @@
 
 ### Certifications
 
+#### UNited States Federal Government
+- Hold an active Security Clearance with the United States Department of Veterans Affairs (VA)
+
 #### Amazon Web Services (AWS)
 - Obtained AWS Artificial Intelligence (AI) Practitioner Certification
 
