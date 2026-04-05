@@ -44,7 +44,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" width="80" height="80"/></a>   
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original-wordmark.svg" width="80" height="80"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Protege.jpg" width="80" height="80"/></a> 
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQL_Logo.jpg" width="80" height="80"/></a>       
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/SQL_Logo.jpg" width="80" height="80"/></a>      
         </td>
     </tr>
     <tr>
