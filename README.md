@@ -16,20 +16,20 @@
 <table>
     <tr>
         <td>Agile Methodology</td>
-        <td style="height: 80px; vertical-align: middle;">
+        <td style="height: 80; vertical-align: middle;">
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Agile_Logo.jpg" width="60" height="60"/></a>  
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Scaled_Agile_Framework_Logo.png" width="60" height="60"/></a>  
         </td>
     </tr>
     <tr>
         <td>Calculus & Linear Algebra </td>
-        <td style="height: 80px; vertical-align: middle;">
+        <td style="height: 80; vertical-align: middle;">
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width="60" height="60"/></a>   
         </td>
     </tr>
     <tr>
         <td>Collaboration</td>
-        <td style="height: 80px; vertical-align: middle;">
+        <td style="height: 80; vertical-align: middle;">
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Colab.jpg" width="60" height="60"/></a> 
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/discord_icon_3.png" width="60" height="60"/></a> 
             <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="60" height="60"/></a>
