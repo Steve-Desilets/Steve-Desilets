@@ -29,7 +29,7 @@
     </tr>
     <tr>
         <td>Collaboration</td>
-        <td>
+        <td style="height: 80px; vertical-align: middle;">
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Colab.jpg" width="60" height="60"/></a> 
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/discord_icon_3.png" width="60" height="60"/></a> 
             <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="60" height="60"/></a>
@@ -39,7 +39,7 @@
     </tr>
     <tr>
         <td>Database Management</td>
-        <td>
+        <td style="height: 80px; vertical-align: middle;">
             <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" width="60" height="60"/></a>   
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original-wordmark.svg" width="60" height="60"/></a>
