@@ -27,11 +27,6 @@
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width="60" height="60" style="object-fit: contain; margin: 2px;" /></a>   
         </td>
     </tr>
-
-
-
-
-    
     <tr>
         <td>Collaboration</td>
         <td style="height: 80; vertical-align: middle;">
