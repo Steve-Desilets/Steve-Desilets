@@ -75,7 +75,7 @@
     <tr>
         <td>Document Preparation</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-ar21.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/adobe_acrobat/Adobe_Logo.png" width="80" height="80"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Latex_Logo.png" width="80" height="80"/></a> 
         </td>
     </tr>
