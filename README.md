@@ -101,7 +101,7 @@
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Excel_Logo.png" width="80" height="80"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/OneNote_Logo.png" width="80" height="80"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Outlook_Logo.jpg" width="80" height="80"/></a>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/PowerPoint_Logo.png" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/PowerPoint_Logo.jpg" width="80" height="80"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Microsoft_Project.png" width="80" height="80"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Visio_Logo.png" width="80" height="80"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Word_Logo.png" width="80" height="80"/></a>
