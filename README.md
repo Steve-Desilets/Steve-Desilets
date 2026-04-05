@@ -68,6 +68,7 @@
     <tr>
         <td>Data Engineering</td>
         <td>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Databricks_Logo.png" width="60" height="60"/></a>
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Go-Logo_Blue.png" width="60" height="60"/></a>     
         </td>
     </tr>
