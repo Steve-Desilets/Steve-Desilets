@@ -17,24 +17,24 @@
     <tr>
         <td>Agile Methodology</td>
         <td style="height: 80; vertical-align: middle;">
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Agile_Logo.jpg" width="60" height="60"/></a>  
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Scaled_Agile_Framework_Logo.png" width="60" height="60"/></a>  
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Agile_Logo.jpg" width="80" height="80"/></a>  
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Scaled_Agile_Framework_Logo.png" width="80" height="80"/></a>  
         </td>
     </tr>
     <tr>
         <td>Calculus & Linear Algebra </td>
         <td style="height: 80; vertical-align: middle;">
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Maple_Logo.jpeg" width="60" height="60"/></a> 
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Maple_Logo.jpeg" width="80" height="80"/></a> 
         </td>
     </tr>
     <tr>
         <td>Collaboration</td>
         <td style="height: 80; vertical-align: middle;">
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Colab.jpg" width="60" height="60"/></a> 
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/discord_icon_3.png" width="60" height="60"/></a> 
-            <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/slack/slack-original-wordmark.svg" width="60" height="60"/></a>      
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width="60" height="60"/></a>     
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Colab.jpg" width="80" height="80"/></a> 
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/discord_icon_3.png" width="80" height="80"/></a> 
+            <a href=""><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/slack/slack-original-wordmark.svg" width="80" height="80"/></a>      
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width="80" height="90"/></a>     
         </td>
     </tr>
     <tr>
