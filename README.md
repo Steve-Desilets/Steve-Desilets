@@ -32,7 +32,7 @@
         <td>Collaboration</td>
         <td style="height: 80; vertical-align: middle;">
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Colab_Logo.png" width="80" height="80"/></a> 
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/discord_icon_3.png" width="80" height="80"/></a> 
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Discord_Logo.png" width="80" height="80"/></a> 
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/GitHub_Logo.png" width="80" height="80"/></a> 
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Slack_Logo.png" width="80" height="80"/></a>    
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Teams_Logo.jpg" width="80" height="80"/></a> 
