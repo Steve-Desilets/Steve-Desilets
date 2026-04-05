@@ -24,7 +24,7 @@
     <tr>
         <td>Calculus & Linear Algebra</td>
         <td>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width="60" height="60" style="object-fit: contain;/></a>   
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width="60" height="60" style="object-fit: contain /></a>   
         </td>
     </tr>
 
