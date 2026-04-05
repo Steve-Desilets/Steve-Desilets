@@ -4,7 +4,7 @@
 
 - 💻 I work as a Senior Consultant at : __Deloitte Consulting__
 - 📕 I recently graduated from Northwestern University with a Master of Science in : __Data Science__
-- 💬 Ask me about: __Data Science, Generative Artificial Intelligence, Cloud Service Providers, Government Consulting__
+- 💬 Ask me about: __Data Science, Generative Artificial Intelligence, Cloud Service Providers__
 - 🐠 Fun fact: I recently obtained my __Open Water Scuba Diving Certification__
 
 ### Contact me:
@@ -24,12 +24,9 @@
     <tr>
         <td>Calculus & Linear Algebra</td>
         <td>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width="60" height="60" style="object-fit: contain /></a>   
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Maple_2015_logo.svg" width="60" height="60"/></a>   
         </td>
     </tr>
-
-
-    
     <tr>
         <td>Collaboration</td>
         <td>
@@ -138,7 +135,6 @@
 - Passed the SOA Probability Exam
 - Passed the SOA Financial Mathematics Exam
 
-<!--
 ### My GitHub Stats
 
 <table>
@@ -159,7 +155,7 @@
 
 
 
-
+<!--
 **Steve-Desilets/Steve-Desilets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
