@@ -53,7 +53,7 @@
             <a href=""><img src="https://mb.cision.com/Public/9602/2082588/92474d4054bf3d17_800x800ar.png" width="80" height="80"/></a>   
             <a href=""><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="80" height="80"/></a>   
             <a href=""><img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" width="80" height="80"/></a> 
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" width="80" height="80"/></a>           
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Stata_Logo.png" width="80" height="80"/></a>    
         </td>
     </tr>
     <tr>
