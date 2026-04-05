@@ -42,7 +42,7 @@
         <td>Database Management</td>
         <td style="height: 80; vertical-align: middle;">
             <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" width="80" height="80"/></a>   
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/Neo4j_Logo.png" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Neo4j_Logo.png" width="80" height="80"/></a> 
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Protege.jpg" width="80" height="80"/></a> 
             <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/SQL_Logo_3.png" width="80" height="80"/></a>      
         </td>
