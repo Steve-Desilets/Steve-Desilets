@@ -40,84 +40,84 @@
     <tr>
         <td>Database Management</td>
         <td style="height: 80; vertical-align: middle;">
-            <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" width="60" height="60"/></a>   
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original-wordmark.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/PostgreSQL_Logo.png" width="60" height="60"/></a> 
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Protege.jpg" width="60" height="60"/></a> 
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="60" height="60"/></a>       
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" width="80" height="80"/></a>   
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original-wordmark.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/PostgreSQL_Logo.png" width="80" height="80"/></a> 
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Protege.jpg" width="80" height="80"/></a> 
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="80" height="80"/></a>       
         </td>
     </tr>
     <tr>
         <td>Data Science</td>
         <td>
-            <a href=""><img src="https://mb.cision.com/Public/9602/2082588/92474d4054bf3d17_800x800ar.png" width="60" height="60"/></a>   
-            <a href=""><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="60" height="60"/></a>   
-            <a href=""><img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" width="60" height="60"/></a> 
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" width="60" height="60"/></a>           
+            <a href=""><img src="https://mb.cision.com/Public/9602/2082588/92474d4054bf3d17_800x800ar.png" width="80" height="80"/></a>   
+            <a href=""><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="80" height="80"/></a>   
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" width="80" height="80"/></a> 
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" width="80" height="80"/></a>           
         </td>
     </tr>
     <tr>
         <td>Data Visualization</td>
         <td>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/PowerBI_Logo_3.png" width="60" height="60"/></a>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Semoss_Logo.jpg" width="60" height="60"/></a>      
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/tableau_logo.png" width="60" height="60"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/PowerBI_Logo_3.png" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Semoss_Logo.jpg" width="80" height="80"/></a>      
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/tableau_logo.png" width="80" height="80"/></a>
         </td>
     </tr>
     <tr>
         <td>Data Engineering</td>
         <td>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Databricks_Logo.png" width="60" height="60"/></a>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Go-Logo_Blue.png" width="60" height="60"/></a>     
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Databricks_Logo.png" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Go-Logo_Blue.png" width="80" height="80"/></a>     
         </td>
     </tr>
     <tr>
         <td>Document Preparation</td>
         <td>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Latex_Logo.png" width="60" height="60"/></a> 
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Latex_Logo.png" width="80" height="80"/></a> 
         </td>
     </tr>
         <tr>
         <td>Finance and Human Resources</td>
         <td>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/CP3_Logo.jpg" width="60" height="60"/></a> 
-            <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="60" height="60"/></a>        
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/CP3_Logo.jpg" width="80" height="80"/></a> 
+            <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" width="80" height="80"/></a>        
         </td>
     </tr>
     <tr>
         <td>General Workplace Operations</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-ar21.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Microsoft_Project.png" width="60" height="60"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg" width="60" height="60"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width="60" height="60"/></a>   
+            <a href=""><img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-ar21.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Microsoft_Project.png" width="80" height="80"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>   
         </td>
     </tr>
     </tr>
         <tr>
         <td>Generative Artificial Intelligence</td>
         <td>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/AWS_Logo.png" width="60" height="60"/></a>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Microsoft_Azure_Logo_2.png" width="60" height="60"/></a>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Python_Logo.png" width="60" height="60"/></a>   
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/AWS_Logo.png" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Microsoft_Azure_Logo_2.png" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Python_Logo.png" width="80" height="80"/></a>   
         </td>
     </tr>
     <tr>
         <td>Video Editing</td>
         <td>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Camtasia_Logo.png" width="60" height="60"/></a>       
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Camtasia_Logo.png" width="80" height="80"/></a>       
         </td>
     </tr>
     <tr>
         <td>Website Design</td>
         <td>
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Hugo_logo_v2.jpg" width="60" height="60"/></a>     
-            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Netlify_Logo.png" width="60" height="60"/></a>    
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Hugo_logo_v2.jpg" width="80" height="80"/></a>     
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Netlify_Logo.png" width="80" height="80"/></a>    
         </td>
     </tr>
 </table>
