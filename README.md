@@ -98,7 +98,7 @@
     <tr>
         <td>Microsoft Office</td>
         <td>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>
+            <a href=""><img src="https://github.com/Steve-Desilets/Steve-Desilets/blob/main/Excel_Logo.png" width="80" height="80"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="80" height="80"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" width="80" height="80"/></a>
